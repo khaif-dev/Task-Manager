@@ -20,9 +20,6 @@ if(process.env.NODE_ENV !== "test"){
 }
 
 // import routes
-const userRoutes = require('./routes/userRoutes')
-app.use('/api/users', userRoutes)
-
 const taskRoutes = require('./routes/taskRoutes')
 app.use('/api/tasks', taskRoutes)
 
