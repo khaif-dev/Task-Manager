@@ -19,6 +19,7 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application for managing ta
 ## Overview
 
 Task Manager is a productivity application that allows users to organize their work into projects and manage individual tasks. Each task can have priority levels, due dates, descriptions, and completion status. The application features a clean, intuitive UI built with React and styled with Tailwind CSS.
+View live project [here](https://khaif-taskmanager.vercel.app/)
 
 ## Features
 
